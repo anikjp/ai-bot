@@ -1,0 +1,26 @@
+{
+  "name": "movie-wenhooks",
+  "version": "1.0.0",
+  "description": "diaglogflow test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "swarup bam",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "unirest": "^0.5.1",
+    "actions-on-google": "^2.2.0",
+    "firebase-admin": "^5.13.1",
+    "firebase-functions": "^2.0.2",
+    "dialogflow": "^0.6.0",
+    "dialogflow-fulfillment": "^0.5.0"
+  },
+  "engines": {
+    "node": "8.9.1"
+  }
+}
+
+
