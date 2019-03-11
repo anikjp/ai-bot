@@ -9,6 +9,7 @@
   "author": "swarup bam",
   "license": "ISC",
   "dependencies": {
+    "firebase-admin": "^5.13.1",
     "body-parser": "^1.18.2",
     "express": "^4.16.2",
     "unirest": "^0.5.1",
